@@ -1,4 +1,4 @@
-# primeiro-projeto-java
+# PrimeiroProjetoJava
 Realizando primeiro programa em Java ("Hello World")
 
     //Instagram: @pikdev_
